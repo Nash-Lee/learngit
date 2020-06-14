@@ -3,3 +3,4 @@ Git is free software distributed under GRL.
 Git has a mutable index called stage.
 Finally, i did it.
 SSH key.
+creating a new branch is quick.
