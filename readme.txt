@@ -5,3 +5,4 @@ Finally, i did it.
 SSH key.
 Creating a new branch is quick and simple.
 A new test.
+stash 
